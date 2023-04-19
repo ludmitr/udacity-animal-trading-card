@@ -1,6 +1,4 @@
-/* add your CSS here */
-
-/* General styles for the card */
+/* General styles for main card */
 .card_main_container{
     border: 1px solid #D3D3D3;
     width: 320px;
@@ -30,11 +28,11 @@
     margin-bottom: 15px;
 }
 
+.animal_label_information{
+    font-weight:bold;
+}
+
 ul{
     list-style: none;
     padding: 0;
-}
-/* animal labels inside info container*/
-li span{
-    font-weight:bold;
 }
