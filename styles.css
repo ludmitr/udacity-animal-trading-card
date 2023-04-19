@@ -23,6 +23,7 @@
     border: 1px solid #D3D3D3;
 }
 
+/*spacing all the direct child's of class .info_container*/
 .info_container > *{
     margin: 10px;
     margin-bottom: 15px;
