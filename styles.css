@@ -1,0 +1,30 @@
+/* add your CSS here */
+.card_picture{
+    width: 300px;
+}
+.interesting_fact{
+    font-style: italic;
+}
+.card_main_container{
+    border: 1px solid grey;
+    width: 320px;
+}
+.card_main_container > *{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.info_container{
+    border: 1px solid grey;
+}
+.info_container > *{
+    margin: 10px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li span{
+font-weight:bold;
+}
